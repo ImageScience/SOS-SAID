@@ -5,13 +5,19 @@ Software tools pertaining to the following paper:
 Yao Yao, Ihor Smal, Ilya Grigoriev, Maud Martin, Anna Akhmanova, Erik Meijering  
 *Methods in Molecular Biology* (under review)
 
-[Download the Fiji platform](http://imagej.net/Fiji/Downloads) and install it.
+[Download the Fiji platform](http://imagej.net/Fiji/Downloads) and install it as described in the paper.
 
 [Download the SOS plugin]() to the plugins folder of Fiji.
 
 [Download the SAID plugin]() to the plugins folder of Fiji.
 
 *The links to the plugins will be activated upon publication of the paper.*
+
+If you prefer to use plain [ImageJ](http://rsb.info.nih.gov/ij/) instead of Fiji you must manually add the needed components:
+
+[Download the MTrackJ plugin](http://www.imagescience.org/meijering/software/mtrackj/) to the plugins folder of ImageJ.
+
+[Download the JAMA library](http://math.nist.gov/javanumerics/jama/) to the plugins folder of ImageJ.
 
 All rights reserved. Permission to use the SOS and SAID plugins for educational, research, and not-for-profit purposes, without a fee and without a signed licensing agreement, is granted, subject to the following terms and conditions.
 
